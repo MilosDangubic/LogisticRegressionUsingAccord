@@ -1,0 +1,40 @@
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.exe
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.deps.json
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.runtimeconfig.json
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.runtimeconfig.dev.json
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.dll
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.pdb
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.MachineLearning.dll
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.dll
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.csprojAssemblyReference.cache
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.AssemblyInfoInputs.cache
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.AssemblyInfo.cs
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.csproj.CoreCompileInputs.cache
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.csproj.CopyComplete
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.dll
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.pdb
+C:\Users\Vasilije\source\repos\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.genruntimeconfig.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.exe
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.deps.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.runtimeconfig.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.runtimeconfig.dev.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.pdb
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.MachineLearning.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.csprojAssemblyReference.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.AssemblyInfoInputs.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.AssemblyInfo.cs
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.csproj.CoreCompileInputs.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.csproj.CopyComplete
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.pdb
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\LogisticRegressionUsingAccord\LogisticRegressionUsingAccord\obj\Debug\netcoreapp3.1\LogisticRegressionUsingAccord.genruntimeconfig.cache
